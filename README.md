@@ -1,0 +1,2 @@
+# insurtech_thesis
+The purpose of this project is to model blockchain-based smart contracts using collaborative business process solutions such as the Business Process Model and Notation (BPMN). In this thesis, a collaborative business process involving mutually untrusted parties in a decentralized environment is provided. Most specifically, a process choreography for the underwriting of a train delay policy through a parametric insurance to automate claims with smart contracts is illustrated.
