@@ -25,4 +25,4 @@ Insurtain’s value proposition is to rebuild trust and efficiency in the insura
 
 ## Authors
 
-ex. Rocco Goldschmidt - roccogold23@gmail.com
+Rocco Goldschmidt - roccogold23@gmail.com
