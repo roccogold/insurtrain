@@ -8,7 +8,7 @@ In this thesis, this issue is addressed by proposing modeling languages, such as
 
 Insurtain’s value proposition is to rebuild trust and efficiency in the insurance sector. This solution aims to provide as much as clarity and customer-centricity as possible – whatever is promised will be delivered. The goal is to provide travelers with an automated train delay product that relies on reliable data and immediately proceeds with compensation.
 
-## Getting Started [Flows]
+## Flows
 
 ### orchestica_main
 
