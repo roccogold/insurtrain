@@ -1,12 +1,17 @@
 {
-"name":"Travis",
-"surname":"Scott",
-"dateBirth":"30-04-1992",
-"placeBirth":"Houston",
-"code":"SCTRVS92H30G892M",
-"residency":"San Francisco",
-"number":"GTX563B",
-"departure":"2021-05-28 15:00:00", "departureUnix":1622214000,
-"stationDeparture":"Milano Centrale", "arrival":"2021-05-28 16:23:20", "arrivalUnix":1622219000,
-"stationArrival":"Roma Termini", "btcaddressClient":"3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5", "price":30
+    "name":"Travis",
+    "surname":"Scott",
+    "dateBirth":"30-04-1992",
+    "placeBirth":"Houston",
+    "code":"SCTRVS92H30G892M",
+    "residency":"San Francisco",
+    "number":"GTX563B",
+    "departure":"2021-05-28 15:00:00", 
+    "departureUnix":1622214000,
+    "stationDeparture":"Milano Centrale", 
+    "arrival":"2021-05-28 16:23:20",
+    "arrivalUnix":1622219000,
+    "stationArrival":"Roma Termini",
+    "btcaddressClient":"3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5",
+    "price":30
 }
