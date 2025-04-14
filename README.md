@@ -1,4 +1,4 @@
-# [insurtrain] - Blockchain-Based Parametric Train Delay Insurance
+# [insurtrain]
 
 [![Thesis PDF](https://img.shields.io/badge/Thesis-PDF-blue)](https://github.com/roccogold/insurtrain_thesis/blob/main/master_thesis_project.pdf)
 
