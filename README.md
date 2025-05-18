@@ -15,7 +15,7 @@ This project demonstrates a methodology for designing smart contracts using BPMN
 - **BPMN-Based Smart Contracts**: Visual workflow modeling using BPMN
 - **Blockchain Transparency**: Immutable transaction records on private blockchain
 - **Parametric Insurance Model**: 
-  - premium calculation based on travel distance (5-7% of ticket price)
+  - Premium calculation based on travel distance (5-7% of ticket price)
   - Compensation tiers (50-100% of ticket value)
 - **Oracle Integration**: Real-time train status verification through API connections
 
